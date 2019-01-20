@@ -1,0 +1,5 @@
+The exercise was solved under two different perspectives:
+
+1 - Solve it as a pure char problem. Great because it encourage the student to think thoroughly about all needed relations between digits in order to print the required serie.
+
+2 - Solve it as an integer problem. The analysis and lines of code  end up being shorter
